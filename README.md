@@ -1,0 +1,2 @@
+# bcdunet
+lungs segmentation
